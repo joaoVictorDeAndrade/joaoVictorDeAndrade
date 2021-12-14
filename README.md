@@ -1,4 +1,4 @@
-### Ilá, eu sou o João 👋
+### Olá, eu sou o João 👋
 
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estou me aprofundando em React JS
