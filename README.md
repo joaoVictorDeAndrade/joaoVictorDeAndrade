@@ -1,4 +1,4 @@
-### Olá, eu sou o João 👋
+### Welcome to my Github! 👋
 
 - 🔭 React and React Native developer
 - 😄 Pronouns: he/him
