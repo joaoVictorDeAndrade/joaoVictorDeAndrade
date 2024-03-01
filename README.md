@@ -1,6 +1,6 @@
 ### Welcome to my Github! 👋
 
-- 🔭 React and React Native developer
+- 🔭 Full Stack Developer (Vue.js, React.js, React Native and Rails)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like play guitar
 
