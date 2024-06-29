@@ -1,8 +1,9 @@
 ### Welcome to my Github! 👋
+I am a Full-Stack Software Engineer with over 4 years of programming experience.
 
-- 🔭 Full Stack Developer (Vue.js, React.js, React Native and Rails)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like play guitar
+As a Mid-Level Software Developer at an odontologic solution company, my primary focus is on improving lead conversion by developing features aimed at acquiring and retaining new subscribers.
+
+With a solid foundation in JavaScript and Web Development (which I've been honing since 2021), I'm well-prepared to tackle any project. In addition to my professional experience, I'm creating a side project that is helping a local clothing store's management.
 
 <div align="center">
   <a href="https://github.com/joaoVictorDeAndrade">
