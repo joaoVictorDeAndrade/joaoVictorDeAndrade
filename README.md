@@ -1,7 +1,7 @@
 ### Welcome to my Github! 👋
 I am a Full-Stack Software Engineer with over 4 years of programming experience.
 
-As a Mid-Level Software Developer at an odontologic solution company <a href="https://capim.com.br/">Capim</a>, my primary focus is on improving lead conversion by developing features aimed at acquiring and retaining new subscribers.
+As a Mid-Level Software Developer at an odontologic solution fintech <a href="https://capim.com.br/">Capim</a>, my primary focus is on improving lead conversion by developing features aimed at acquiring and retaining new subscribers.
 
 With a solid foundation in JavaScript and Web Development (which I've been honing since 2021), I'm well-prepared to tackle any project. In addition to my professional experience, I'm creating a side project that is helping a local clothing store's management.
 
