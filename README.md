@@ -1,5 +1,5 @@
 ### Welcome to my Github! 👋
-I am a Full-Stack Software Engineer with over 4 years of programming experience.
+I am a Full-Stack Software Engineer with over 5 years of programming experience.
 
 As a Mid-Level Software Developer at an odontologic solution fintech <a href="https://capim.com.br/">Capim</a>, my primary focus is on improving lead conversion by developing features aimed at acquiring and retaining new subscribers.
 
